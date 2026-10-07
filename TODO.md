@@ -72,7 +72,7 @@ Address various technical and content issues that have been identified.
 ## Notes
 - The website uses Tailwind CSS for styling
 - Chart.js is used for data visualizations
-- The project is hosted on GitHub: https://github.com/Meduty/5minuteFallacy
+- The project is hosted on GitHub: https://github.com/medukn/5minuteFallacy
 
 ---
 
